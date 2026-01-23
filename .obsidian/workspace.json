@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3568驱动/1.编译出第一个内核模块.md",
+                "file": "3568驱动/字符类设备/7.杂项设备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1.编译出第一个内核模块 的反向链接列表"
+              "title": "7.杂项设备 的反向链接列表"
             }
           },
           {
@@ -185,24 +185,35 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "外肢体手指/姿态解算与电机控制.md",
+                "file": "3568驱动/字符类设备/7.杂项设备.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "姿态解算与电机控制 的大纲"
+              "title": "7.杂项设备 的大纲"
+            }
+          },
+          {
+            "id": "4c1885c26baf85ef",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 415.5,
-    "collapsed": true
+    "width": 415.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
