@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3568驱动/2.并发与竞争/3.自旋锁.md",
+                "file": "3568驱动/2.并发与竞争/4.信号量.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.自旋锁"
+              "title": "4.信号量"
             }
           }
         ]
@@ -197,9 +197,11 @@
   },
   "active": "73c11cef762936f5",
   "lastOpenFiles": [
+    "Pasted image 20260127214655.png",
+    "3568驱动/2.并发与竞争/3.自旋锁.md",
+    "3568驱动/2.并发与竞争/4.信号量.md",
     "Pasted image 20260127212327.png",
     "3568驱动/1.字符类设备/8.点灯.md",
-    "3568驱动/2.并发与竞争/3.自旋锁.md",
     "3568驱动/pic/Pasted image 20260127205815.png",
     "3568驱动/2.并发与竞争/2.原子操作.md",
     "3568驱动/pic/Pasted image 20260127205821.png",
@@ -226,7 +228,6 @@
     "3568驱动/pic/Pasted image 20251221205328.png",
     "rk3568/pic/Pasted image 20251220234905.png",
     "rk3568/pic/Pasted image 20251220234900.png",
-    "rk3568/pic/Pasted image 20251222223112.png",
     "3568驱动/pic",
     "3568驱动/4.把驱动编译进内核.md",
     "3568驱动/2.内核模块加载与卸载.md",
@@ -235,7 +236,6 @@
     "rk3568/QT_learn/QBytreArray.md",
     "rk3568/QT_learn/Qvector和环形缓冲区.md",
     "rk3568/README.md",
-    "rk3568/rk3568backend.md",
     "linux应用/进程与线程",
     "3568驱动",
     "未命名 1",
