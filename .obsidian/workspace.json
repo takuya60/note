@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3568驱动/2.并发与竞争/5. 互斥锁.md",
+                "file": "3568驱动/3.字符设备进阶/阻塞IO 等待队列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. 互斥锁"
+              "title": "阻塞IO 等待队列"
             }
           }
         ]
@@ -197,9 +197,11 @@
   },
   "active": "73c11cef762936f5",
   "lastOpenFiles": [
+    "3568驱动/2.并发与竞争/5. 互斥锁.md",
+    "3568驱动/3.字符设备进阶/阻塞IO 等待队列.md",
+    "3568驱动/3.字符设备进阶",
     "Pasted image 20260127215322.png",
     "3568驱动/2.并发与竞争/4.信号量.md",
-    "3568驱动/2.并发与竞争/5. 互斥锁.md",
     "Pasted image 20260127214655.png",
     "3568驱动/2.并发与竞争/3.自旋锁.md",
     "Pasted image 20260127212327.png",
@@ -228,7 +230,6 @@
     "3568驱动/pic/Pasted image 20251221205557.png",
     "3568驱动/pic/Pasted image 20251221205521.png",
     "3568驱动/pic/Pasted image 20251221205328.png",
-    "rk3568/pic/Pasted image 20251220234905.png",
     "3568驱动/pic",
     "3568驱动/4.把驱动编译进内核.md",
     "3568驱动/2.内核模块加载与卸载.md",
@@ -241,7 +242,6 @@
     "未命名 1",
     "rk3568/pic",
     "linux应用/image",
-    "linux应用",
-    "rk3568"
+    "linux应用"
   ]
 }
