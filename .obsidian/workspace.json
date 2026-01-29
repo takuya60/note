@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux应用/进程与线程/进程间通信.md",
+                "file": "rk3568/结构体和内存对齐.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "进程间通信"
+              "title": "结构体和内存对齐"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "对齐",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,6 +198,7 @@
   },
   "active": "73c11cef762936f5",
   "lastOpenFiles": [
+    "linux应用/进程与线程/进程间通信.md",
     "linux应用/进程与线程/执行新程序.md",
     "3568驱动/3.字符设备进阶/内核打印等级.md",
     "Pasted image 20260128102230.png",
@@ -208,7 +210,6 @@
     "linux应用/进程间通信.md",
     "linux应用/系统信息与系统资源.md",
     "linux应用/信号2.md",
-    "linux应用/进程与线程/进程间通信.md",
     "linux应用/进程与线程/exit.md",
     "linux应用/image/Pasted image 20251202222937.png",
     "3568驱动/3.字符设备进阶/1.阻塞IO 等待队列.md",
