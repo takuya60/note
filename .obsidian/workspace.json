@@ -198,6 +198,7 @@
   },
   "active": "73c11cef762936f5",
   "lastOpenFiles": [
+    "Pasted image 20260209115610.png",
     "3568驱动/2.并发与竞争/1.并发.md",
     "3568驱动/3.字符设备进阶/1.阻塞IO 等待队列.md",
     "3568驱动/3.字符设备进阶/内核打印等级.md",
@@ -224,7 +225,6 @@
     "linux应用/进程间通信.md",
     "linux应用/系统信息与系统资源.md",
     "linux应用/信号2.md",
-    "linux应用/进程与线程/exit.md",
     "linux应用/image/Pasted image 20251202222937.png",
     "Pasted image 20260128101523.png",
     "Pasted image 20260128100208.png",
