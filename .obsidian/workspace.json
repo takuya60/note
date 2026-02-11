@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3568驱动/3.字符设备进阶/4.ioctl.md",
+                "file": "3568驱动/1.字符类设备/5.用户与内核之间copy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.ioctl"
+              "title": "5.用户与内核之间copy"
             }
           }
         ]
@@ -198,10 +198,10 @@
   },
   "active": "73c11cef762936f5",
   "lastOpenFiles": [
+    "3568驱动/3.字符设备进阶/4.ioctl.md",
     "Pasted image 20260211231421.png",
     "Pasted image 20260211222700.png",
     "3568驱动/3.字符设备进阶/内核打印等级.md",
-    "3568驱动/3.字符设备进阶/4.ioctl.md",
     "3568驱动/3.字符设备进阶/3.Linux定时器.md",
     "Pasted image 20260209163800.png",
     "Pasted image 20260209163709.png",
@@ -233,7 +233,6 @@
     "linux应用/文件属性与目录.md",
     "linux应用/image/Pasted image 20251202222937.png",
     "Pasted image 20260128101523.png",
-    "Pasted image 20260128100208.png",
     "3568驱动/3.字符设备进阶",
     "3568驱动/2.并发与竞争",
     "3568驱动/1.字符类设备",
