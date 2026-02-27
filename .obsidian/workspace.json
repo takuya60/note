@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FES/MAX14802芯片.md",
+                "file": "FES/MAX14802.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MAX14802芯片"
+              "title": "MAX14802"
             }
           }
         ]
@@ -198,9 +198,10 @@
   },
   "active": "73c11cef762936f5",
   "lastOpenFiles": [
+    "FES/MAX14802芯片.md",
+    "FES/MAX14802.md",
     "Pasted image 20260227181831.png",
     "外肢体手指/姿态解算与电机控制.md",
-    "FES/MAX14802芯片.md",
     "FES",
     "3568驱动/2.并发与竞争/5. 互斥锁.md",
     "3568驱动/2.并发与竞争/3.自旋锁.md",
@@ -241,7 +242,6 @@
     "3568驱动/6.设备树",
     "3568驱动/6..canvas",
     "3568驱动/pic/Pasted image 20260221234432.png",
-    "3568驱动/pic/Pasted image 20260221233711.png",
     "3568驱动/5.平台总线",
     "3568驱动/4.中断",
     "3568驱动/3.字符设备进阶"
