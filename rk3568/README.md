@@ -1,7 +1,7 @@
 # ⚡ High-Performance Medical Electrical Stimulation System
 # 高性能医疗电刺激控制系统
 
-![Qt6](https://img.shields.io/badge/Qt-6.5+-41cd52?style=flat&logo=qt)
+![Qt6|75](https://img.shields.io/badge/Qt-6.5+-41cd52?style=flat&logo=qt)
 ![Platform](https://img.shields.io/badge/Platform-RK3568%20%7C%20Linux-blue)
 ![Architecture](https://img.shields.io/badge/Arch-Heterogeneous%20Dual--Core-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)

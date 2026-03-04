@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3568驱动/1.字符类设备/3.fops结构体.md",
+                "file": "linux车机项目/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.fops结构体"
+              "title": "未命名"
             }
           }
         ],
@@ -210,12 +210,23 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "7f5d368483c0a2f2",
+  "active": "ed7c9f0f78913ffd",
   "lastOpenFiles": [
-    "未命名",
+    "FES/can/RT-Thread中can的使用.md",
+    "linux车机项目/未命名.md",
+    "rk3568/README.md",
+    "rk3568/Lambda表达式.md",
+    "rk3568/ioctcl SPI.md",
+    "rk3568/指针与引用.md",
+    "rk3568/项目结构.md",
+    "rk3568/文件IO.md",
+    "rk3568/启用SPI.md",
+    "rk3568/开发板qt6环境配置.md",
+    "rk3568/屏幕旋转加GPU渲染.md",
+    "3568驱动/1.字符类设备/3.fops结构体.md",
+    "linux车机项目",
     "3568驱动/1.字符类设备/4.自动创建设备节点.md",
     "3568驱动/1.字符类设备/5.用户与内核之间copy.md",
-    "3568驱动/1.字符类设备/3.fops结构体.md",
     "3568驱动/10.SPI子系统 mcp2515例子/5.设备树的修改.md",
     "Pasted image 20260301214737.png",
     "Pasted image 20260301214235.png",
@@ -230,23 +241,13 @@
     "3568驱动/1.字符类设备/7.杂项设备.md",
     "3568驱动/1.字符类设备/8.点灯.md",
     "FES/H7文档.md",
-    "FES/H7控制台命令.md",
     "FES/docs/banner.png.png",
-    "FES/max14802/MAX14802.md",
-    "FES/max14802/MAX14802芯片.md",
     "Pasted image 20260227181831.png",
     "rk3568/pic/Pasted image 20251129112015.png",
-    "FES/can/RT-Thread中can的使用.md",
-    "FES/doc/未命名.md",
     "FES/docs",
     "FES/max14802",
     "FES/can",
-    "回调函数.md",
-    "外肢体手指/姿态解算与电机控制.md",
     "FES",
-    "3568驱动/2.并发与竞争/5. 互斥锁.md",
-    "3568驱动/2.并发与竞争/3.自旋锁.md",
-    "3568驱动/2.并发与竞争/4.信号量.md",
     "3568驱动/pic/Pasted image 20260127212327.png",
     "3568驱动/pic/Pasted image 20260226155827.png",
     "3568驱动/10.SPI子系统 mcp2515例子",
