@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux车机项目/内核编译config.md",
+                "file": "FES/H7文档.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "内核编译config"
+              "title": "H7文档"
             }
           }
         ],
@@ -212,9 +212,10 @@
   },
   "active": "ed7c9f0f78913ffd",
   "lastOpenFiles": [
+    "FES/H7控制台命令.md",
+    "linux车机项目/内核编译config.md",
     "linux车机项目/未命名.md",
     "linux车机项目/3.4.md",
-    "linux车机项目/内核编译config.md",
     "Pasted image 20260304173323.png",
     "linux车机项目/裁剪系统.md",
     "FES/can/RT-Thread中can的使用.md",
@@ -241,7 +242,6 @@
     "3568驱动/10.SPI子系统 mcp2515例子/4..md",
     "3568驱动/1.字符类设备/6.私有数据的使用.md",
     "3568驱动/1.字符类设备/1.申请设备号.md",
-    "3568驱动/1.字符类设备/2.注册字符类设备cdev.md",
     "FES/docs/banner.png.png",
     "Pasted image 20260227181831.png",
     "rk3568/pic/Pasted image 20251129112015.png",
