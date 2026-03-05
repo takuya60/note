@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FES/can/多帧拼接.md",
+                "file": "FES/闭环控制/滤波.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "多帧拼接"
+              "title": "滤波"
             }
           }
         ],
@@ -212,8 +212,10 @@
   },
   "active": "ed7c9f0f78913ffd",
   "lastOpenFiles": [
-    "FES/H7控制台命令.md",
+    "FES/闭环控制",
     "FES/can/多帧拼接.md",
+    "FES/闭环控制/滤波.md",
+    "FES/H7控制台命令.md",
     "FES/H7文档.md",
     "linux车机项目/内核编译config.md",
     "linux车机项目/未命名.md",
@@ -240,8 +242,6 @@
     "3568驱动/6.设备树/1.基础知识；.md",
     "3568驱动/10.SPI子系统 mcp2515例子/3..md",
     "3568驱动/10.SPI子系统 mcp2515例子/2. SPI子系统 平台总线 设备树 三者关系.md",
-    "3568驱动/10.SPI子系统 mcp2515例子/1..md",
-    "3568驱动/10.SPI子系统 mcp2515例子/4..md",
     "FES/docs/banner.png.png",
     "Pasted image 20260227181831.png",
     "rk3568/pic/Pasted image 20251129112015.png",
