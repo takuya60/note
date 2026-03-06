@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FES/面试/第二部分：RTOS.md",
+                "file": "FES/面试/第四部分：ADC  DMA  架构设计  项目深入.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第二部分：RTOS"
+              "title": "第四部分：ADC  DMA  架构设计  项目深入"
             }
           }
         ]
@@ -197,8 +197,9 @@
   },
   "active": "ed7c9f0f78913ffd",
   "lastOpenFiles": [
-    "FES/面试/第一部分：C 语言底层 + ARM Cortex-M 架构.md",
     "FES/面试/第三部分：SPI  I2C  CAN 总线协议.md",
+    "FES/面试/第四部分：ADC  DMA  架构设计  项目深入.md",
+    "FES/面试/第一部分：C 语言底层 + ARM Cortex-M 架构.md",
     "FES/面试/第二部分：RTOS.md",
     "FES/面试",
     "FES/调试.md",
@@ -226,7 +227,6 @@
     "3568驱动/1.字符类设备/3.fops结构体.md",
     "linux车机项目",
     "3568驱动/1.字符类设备/4.自动创建设备节点.md",
-    "3568驱动/1.字符类设备/5.用户与内核之间copy.md",
     "Pasted image 20260301214737.png",
     "Pasted image 20260301214235.png",
     "FES/docs/banner.png.png",
