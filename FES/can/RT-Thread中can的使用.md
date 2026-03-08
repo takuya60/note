@@ -92,8 +92,10 @@ static void can_rx_thread_entry(void *param)
         // 从 CAN 硬件 FIFO 中读出帧数据 
         //在字符设备（如 CAN、UART）中，这个参数通常**没有实际意义**，一般固定传 `0`
         rt_device_read(s_can_dev, 0, &can_msg, sizeof(can_msg));
+        
         // 解析 CAN 帧 → stim_msg_t
         parse_can_frame(&can_msg, &msg);
+        
         // 投入服务层消息队列
         stim_service_send_cmd(&msg);
         // 回到循环顶部，再次 rt_sem_take，如果没新数据就又睡着

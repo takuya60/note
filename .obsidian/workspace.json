@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FES/can/多帧拼接.md",
+                "file": "FES/can/can协议解析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "多帧拼接"
+              "title": "can协议解析"
             }
           }
         ]
@@ -197,6 +197,9 @@
   },
   "active": "ed7c9f0f78913ffd",
   "lastOpenFiles": [
+    "FES/can/RT-Thread中can的使用.md",
+    "FES/can/can协议解析.md",
+    "FES/can/多帧拼接.md",
     "FES/面试/第四部分：ADC  DMA  架构设计  项目深入.md",
     "FES/面试/第三部分：SPI  I2C  CAN 总线协议.md",
     "FES/面试/第一部分：C 语言底层 + ARM Cortex-M 架构.md",
@@ -209,12 +212,10 @@
     "FES/闭环控制/滤波.md",
     "FES/闭环控制/PID.md",
     "FES/闭环控制",
-    "FES/can/多帧拼接.md",
     "linux车机项目/内核编译config.md",
     "linux车机项目/未命名.md",
     "Pasted image 20260304173323.png",
     "linux车机项目/裁剪系统.md",
-    "FES/can/RT-Thread中can的使用.md",
     "rk3568/README.md",
     "rk3568/Lambda表达式.md",
     "rk3568/ioctcl SPI.md",
@@ -226,7 +227,6 @@
     "rk3568/屏幕旋转加GPU渲染.md",
     "3568驱动/1.字符类设备/3.fops结构体.md",
     "linux车机项目",
-    "3568驱动/1.字符类设备/4.自动创建设备节点.md",
     "Pasted image 20260301214737.png",
     "Pasted image 20260301214235.png",
     "FES/docs/banner.png.png",
