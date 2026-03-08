@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "b703fb5ca7f0f918",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
             "id": "d3506fad7b71b1fb",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "电刺激设计"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fa931044ee5d0116",
@@ -108,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FES/H7文档.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "H7文档 的反向链接列表"
+              "title": "未命名 的反向链接列表"
             }
           },
           {
@@ -188,8 +204,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "cdcd8f16302fcd6b",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -206,15 +233,23 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ed7c9f0f78913ffd",
+  "active": "b703fb5ca7f0f918",
   "lastOpenFiles": [
-    "电刺激设计.md",
-    "FES/H7文档.md",
-    "FES/H7控制台命令.md",
     "回调函数.md",
+    "FES/can/System Architecture",
+    "未命名.md",
+    "System Architecture 4",
+    "System Architecture 3",
+    "System Architecture 2",
+    "System Architecture 1",
+    "System Architecture",
+    "FES/H7文档.md",
+    "电刺激设计.md",
+    "FES/H7控制台命令.md",
     "FES/can/can协议解析.md",
     "FES/can/RT-Thread中can的使用.md",
     "FES/can/多帧拼接.md",
@@ -238,8 +273,6 @@
     "rk3568/指针与引用.md",
     "rk3568/项目结构.md",
     "rk3568/文件IO.md",
-    "rk3568/启用SPI.md",
-    "rk3568/开发板qt6环境配置.md",
     "linux车机项目",
     "Pasted image 20260301214737.png",
     "Pasted image 20260301214235.png",
@@ -247,14 +280,8 @@
     "Pasted image 20260227181831.png",
     "rk3568/pic/Pasted image 20251129112015.png",
     "FES/docs",
-    "FES/max14802",
-    "FES/can",
-    "FES",
     "3568驱动/pic/Pasted image 20260127212327.png",
     "3568驱动/pic/Pasted image 20260226155827.png",
-    "3568驱动/10.SPI子系统 mcp2515例子",
-    "3568驱动/9.输入子系统",
-    "3568驱动/7.设备树插件",
     "3568驱动/pic/Pasted image 20260223175744.png",
     "3568驱动/pic/Pasted image 20260223174324.png",
     "3568驱动/6..canvas"
