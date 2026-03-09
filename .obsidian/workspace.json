@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux项目/少了有.md",
+                "file": "linux项目/烧录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "少了有"
+              "title": "烧录"
             }
           },
           {
@@ -238,8 +238,9 @@
   },
   "active": "b703fb5ca7f0f918",
   "lastOpenFiles": [
+    "Pasted image 20260309214702.png",
     "3568驱动/4.把驱动编译进内核.md",
-    "linux项目/少了有.md",
+    "linux项目/烧录.md",
     "3568驱动/2.内核模块加载与卸载.md",
     "3568驱动/5.1 驱动传参.md",
     "3568驱动/7.设备树插件/1..md",
@@ -274,7 +275,6 @@
     "FES/闭环控制/PID.md",
     "FES/闭环控制",
     "Pasted image 20260304173323.png",
-    "rk3568/README.md",
     "linux项目",
     "Pasted image 20260301214737.png",
     "Pasted image 20260301214235.png",
