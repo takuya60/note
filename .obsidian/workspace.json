@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux项目/OTA/OTA两种方式对比.md",
+                "file": "linux项目/OTA/修改uboot，buildroot，parammeter等.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OTA两种方式对比"
+              "title": "修改uboot，buildroot，parammeter等"
             }
           },
           {
@@ -238,9 +238,11 @@
   },
   "active": "b703fb5ca7f0f918",
   "lastOpenFiles": [
+    "linux项目/OTA/OTA两种方式对比.md",
+    "linux项目/3.4.md",
+    "linux项目/OTA/修改uboot，buildroot，parammeter等.md",
     "Pasted image 20260311175649.png",
     "linux项目/裁剪系统.md",
-    "linux项目/OTA/OTA两种方式对比.md",
     "linux项目/OTA",
     "linux项目/内核编译config.md",
     "linux项目/裁剪/视频.md",
@@ -251,7 +253,6 @@
     "3568驱动/5.1 驱动传参.md",
     "3568驱动/7.设备树插件/1..md",
     "Pasted image 20260309202149.png",
-    "linux项目/3.4.md",
     "linux项目/裁剪",
     "linux项目/README.md",
     "FES/调试.md",
@@ -283,7 +284,6 @@
     "Pasted image 20260227181831.png",
     "rk3568/pic/Pasted image 20251129112015.png",
     "3568驱动/pic/Pasted image 20260127212327.png",
-    "3568驱动/pic/Pasted image 20260226155827.png",
     "3568驱动/6..canvas"
   ]
 }
