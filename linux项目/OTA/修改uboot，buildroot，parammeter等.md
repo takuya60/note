@@ -24,3 +24,10 @@ BR2_PACKAGE_RECOVERY_NO_UI=y
 
 `BR2_PACKAGE_RECOVERY_USE_UPDATEENGINE=y #使用新升级程序` `BR2_PACKAGE_RECOVERY_UPDATEENGINEBIN=y #编译新升级程序`
 这个指的是静默升级程序
+
+
+./build.sh external/recovery
+
+./build.sh
+
+zip -r firmware.zip *
