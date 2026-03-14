@@ -236,11 +236,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7f5d368483c0a2f2",
+  "active": "b703fb5ca7f0f918",
   "lastOpenFiles": [
+    "Pasted image 20260314144610.png",
+    "Pasted image 20260314144519.png",
+    "linux项目/OTA/AB分区.md",
+    "linux项目/OTA/修改uboot，buildroot，parammeter等.md",
     "linux项目/OTA/OTA两种方式对比.md",
     "linux项目/内核编译config.md",
-    "linux项目/OTA/修改uboot，buildroot，parammeter等.md",
     "linux项目/3.4.md",
     "Pasted image 20260311175649.png",
     "linux项目/裁剪系统.md",
@@ -273,9 +276,7 @@
     "FES/面试/第四部分：ADC  DMA  架构设计  项目深入.md",
     "FES/面试/第三部分：SPI  I2C  CAN 总线协议.md",
     "FES/面试/第一部分：C 语言底层 + ARM Cortex-M 架构.md",
-    "FES/面试/第二部分：RTOS.md",
     "FES/面试",
-    "FES/闭环控制/滤波.md",
     "FES/闭环控制",
     "Pasted image 20260304173323.png",
     "Pasted image 20260301214737.png",
@@ -283,7 +284,6 @@
     "FES/docs/banner.png.png",
     "Pasted image 20260227181831.png",
     "rk3568/pic/Pasted image 20251129112015.png",
-    "3568驱动/pic/Pasted image 20260127212327.png",
     "3568驱动/6..canvas"
   ]
 }

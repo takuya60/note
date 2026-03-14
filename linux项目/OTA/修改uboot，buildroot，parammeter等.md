@@ -31,3 +31,10 @@ BR2_PACKAGE_RECOVERY_NO_UI=y
 ./build.sh
 
 zip -r firmware.zip *
+
+然后修改parammeter，按正常的AB升级，需要改成
+CMDLINE:mtdparts=:0x00001000@0x00000800(vnvm),0x00004000@0x00001800(uboot),0x00001000@0x00005800(misc),0x00004000@0x00006800(boot_a),0x00004000@0x0000a800(boot_b),-@0x0000e800(ubi:grow)
+但是如果这样改， 底层 SPL 驱动硬编码了名字校验
+所以不能改名字，只能把recovery当作B分区
+![[Pasted image 20260314144519.png]]
+![[Pasted image 20260314144610.png]]
