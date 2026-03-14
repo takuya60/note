@@ -38,3 +38,5 @@ CMDLINE:mtdparts=:0x00001000@0x00000800(vnvm),0x00004000@0x00001800(uboot),0x000
 所以不能改名字，只能把recovery当作B分区
 ![[Pasted image 20260314144519.png]]
 ![[Pasted image 20260314144610.png]]
+![[Pasted image 20260314145326.png]]
+![[Pasted image 20260314145513.png]]
