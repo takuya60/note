@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux项目/内核编译config.md",
+                "file": "3568驱动/10.SPI子系统 mcp2515例子/5.设备树的修改.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "内核编译config"
+              "title": "5.设备树的修改"
+            }
+          },
+          {
+            "id": "b486e4725145cc8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3568驱动/10.SPI子系统 mcp2515例子/5.设备树的修改.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.设备树的修改"
             }
           },
           {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -236,15 +250,32 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b703fb5ca7f0f918",
+  "active": "b486e4725145cc8b",
   "lastOpenFiles": [
+    "单片机课设/修改设备树.md",
+    "未命名.md",
+    "单片机课设",
+    "回调函数.md",
+    "电刺激设计.md",
+    "单片机课设.md",
+    "未命名 1.md",
+    "3568驱动/10.SPI子系统 mcp2515例子/5.设备树的修改.md",
+    "3568驱动/10.SPI子系统 mcp2515例子/4..md",
+    "3568驱动/10.SPI子系统 mcp2515例子/3..md",
+    "3568驱动/10.SPI子系统 mcp2515例子/2. SPI子系统 平台总线 设备树 三者关系.md",
+    "3568驱动/10.SPI子系统 mcp2515例子/1..md",
+    "3568驱动/5.1 驱动传参.md",
+    "3568驱动/6.符号表 符号导出.md",
+    "3568驱动/3568环境.md",
+    "3568驱动/5.驱动传参.md",
+    "linux项目/裁剪/视频.md",
+    "linux项目/内核编译config.md",
     "linux项目/裁剪系统.md",
     "linux项目/README3506.md",
     "linux项目/README3568.md",
     "linux项目/未命名 1.md",
     "linux项目/未命名.md",
     "linux项目/烧录.md",
-    "linux项目/内核编译config.md",
     "linux项目/OTA/OTA两种方式对比.md",
     "linux项目/OTA/AB分区.md",
     "linux项目/OTA/修改uboot，buildroot，parammeter等.md",
@@ -252,35 +283,18 @@
     "Pasted image 20260314145326.png",
     "Pasted image 20260314144610.png",
     "Pasted image 20260314144519.png",
-    "linux项目/3.4.md",
     "Pasted image 20260311175649.png",
     "linux项目/OTA",
-    "linux项目/裁剪/视频.md",
     "Pasted image 20260309214702.png",
-    "3568驱动/4.把驱动编译进内核.md",
-    "3568驱动/2.内核模块加载与卸载.md",
-    "3568驱动/5.1 驱动传参.md",
-    "3568驱动/7.设备树插件/1..md",
     "Pasted image 20260309202149.png",
     "linux项目/裁剪",
-    "FES/调试.md",
-    "电刺激设计.md",
-    "未命名.md",
-    "回调函数.md",
     "FES/can/System Architecture",
     "System Architecture 4",
     "System Architecture 3",
     "System Architecture 2",
     "System Architecture 1",
     "System Architecture",
-    "FES/H7文档.md",
-    "FES/H7控制台命令.md",
-    "FES/can/can协议解析.md",
-    "FES/can/RT-Thread中can的使用.md",
-    "FES/can/多帧拼接.md",
-    "FES/面试/第四部分：ADC  DMA  架构设计  项目深入.md",
     "FES/面试",
-    "FES/闭环控制",
     "Pasted image 20260304173323.png",
     "Pasted image 20260301214737.png",
     "Pasted image 20260301214235.png",
