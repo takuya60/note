@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux项目/README3506.md",
+                "file": "linux项目/内核编译config.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README3506"
+              "title": "内核编译config"
             }
           },
           {
@@ -238,8 +238,9 @@
   },
   "active": "b703fb5ca7f0f918",
   "lastOpenFiles": [
-    "linux项目/README3568.md",
+    "linux项目/裁剪系统.md",
     "linux项目/README3506.md",
+    "linux项目/README3568.md",
     "linux项目/未命名 1.md",
     "linux项目/未命名.md",
     "linux项目/烧录.md",
@@ -253,7 +254,6 @@
     "Pasted image 20260314144519.png",
     "linux项目/3.4.md",
     "Pasted image 20260311175649.png",
-    "linux项目/裁剪系统.md",
     "linux项目/OTA",
     "linux项目/裁剪/视频.md",
     "Pasted image 20260309214702.png",
