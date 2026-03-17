@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 1.md",
+                "file": "FES/D 缓存.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 1"
+              "title": "D 缓存"
             }
           },
           {
@@ -266,8 +266,9 @@
   },
   "active": "ad03065dceb95854",
   "lastOpenFiles": [
-    "3568驱动/4.把驱动编译进内核.md",
     "未命名 1.md",
+    "FES/D 缓存.md",
+    "3568驱动/4.把驱动编译进内核.md",
     "3568驱动/2.内核模块加载与卸载.md",
     "单片机课设/2.驱动编写/工作流程.md",
     "单片机课设/1.修改设备树.md",
@@ -293,7 +294,6 @@
     "linux项目/裁剪/视频.md",
     "linux项目/内核编译config.md",
     "linux项目/裁剪系统.md",
-    "linux项目/README3506.md",
     "Pasted image 20260314145513.png",
     "Pasted image 20260314145326.png",
     "Pasted image 20260314144610.png",
