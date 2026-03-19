@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FES/D 缓存.md",
+                "file": "linux项目/day2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D 缓存"
+              "title": "day2"
             }
           },
           {
@@ -266,8 +266,20 @@
   },
   "active": "ad03065dceb95854",
   "lastOpenFiles": [
-    "未命名 1.md",
+    "linux项目/README3568.md",
+    "linux项目/README3506.md",
+    "linux项目/day2.md",
+    "linux项目/裁剪/视频.md",
+    "linux项目/OTA/修改uboot，buildroot，parammeter等.md",
+    "linux项目/OTA/AB分区.md",
+    "linux项目/OTA/OTA两种方式对比.md",
+    "linux项目/3.4.md",
+    "linux项目/内核编译config.md",
+    "linux项目/裁剪系统.md",
+    "linux项目/未命名 1.md",
+    "linux项目/烧录.md",
     "FES/D 缓存.md",
+    "未命名 1.md",
     "3568驱动/4.把驱动编译进内核.md",
     "3568驱动/2.内核模块加载与卸载.md",
     "单片机课设/2.驱动编写/工作流程.md",
@@ -282,18 +294,6 @@
     "单片机课设",
     "回调函数.md",
     "电刺激设计.md",
-    "单片机课设.md",
-    "3568驱动/10.SPI子系统 mcp2515例子/4..md",
-    "3568驱动/10.SPI子系统 mcp2515例子/3..md",
-    "3568驱动/10.SPI子系统 mcp2515例子/2. SPI子系统 平台总线 设备树 三者关系.md",
-    "3568驱动/10.SPI子系统 mcp2515例子/1..md",
-    "3568驱动/5.1 驱动传参.md",
-    "3568驱动/6.符号表 符号导出.md",
-    "3568驱动/3568环境.md",
-    "3568驱动/5.驱动传参.md",
-    "linux项目/裁剪/视频.md",
-    "linux项目/内核编译config.md",
-    "linux项目/裁剪系统.md",
     "Pasted image 20260314145513.png",
     "Pasted image 20260314145326.png",
     "Pasted image 20260314144610.png",
