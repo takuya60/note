@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "单片机课设/1.修改设备树.md",
+                "file": "3568驱动/4.把驱动编译进内核.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.修改设备树"
+              "title": "4.把驱动编译进内核"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spi0",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,8 +131,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -267,6 +266,9 @@
   },
   "active": "ad03065dceb95854",
   "lastOpenFiles": [
+    "3568驱动/2.内核模块加载与卸载.md",
+    "3568驱动/1.编译出第一个内核模块.md",
+    "单片机课设/1.修改设备树.md",
     "未命名.md",
     "未命名 1.md",
     "linux项目/裁剪/视频.md",
@@ -280,8 +282,6 @@
     "linux项目/OTA/修改uboot，buildroot，parammeter等.md",
     "linux项目/3.4.md",
     "3568驱动/4.把驱动编译进内核.md",
-    "3568驱动/1.编译出第一个内核模块.md",
-    "3568驱动/2.内核模块加载与卸载.md",
     "3568驱动/5.1 驱动传参.md",
     "3568驱动/6.符号表 符号导出.md",
     "3568驱动/5.驱动传参.md",
@@ -290,7 +290,6 @@
     "linux项目/OTA/OTA两种方式对比.md",
     "FES/D 缓存.md",
     "单片机课设/2.驱动编写/工作流程.md",
-    "单片机课设/1.修改设备树.md",
     "3568驱动/1.字符类设备/6.私有数据的使用.md",
     "单片机课设/2.驱动编写",
     "3568驱动/1.字符类设备/2.注册字符类设备cdev.md",
