@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux项目/内核编译config.md",
+                "file": "linux项目/README3506.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "内核编译config"
+              "title": "README3506"
             }
           },
           {
@@ -266,6 +266,7 @@
   },
   "active": "b486e4725145cc8b",
   "lastOpenFiles": [
+    "linux项目/内核编译config.md",
     "未命名.md",
     "3568驱动/4.把驱动编译进内核.md",
     "FES/max14802/MAX14802.md",
@@ -285,7 +286,6 @@
     "3568驱动/1.编译出第一个内核模块.md",
     "未命名 1.md",
     "linux项目/裁剪/视频.md",
-    "linux项目/内核编译config.md",
     "linux项目/烧录.md",
     "linux项目/未命名 1.md",
     "linux项目/README3506.md",
