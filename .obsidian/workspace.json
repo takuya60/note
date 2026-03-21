@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux项目/README3506.md",
+                "file": "FES/分时复用/TDM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README3506"
+              "title": "TDM"
             }
           },
           {
@@ -266,10 +266,14 @@
   },
   "active": "b486e4725145cc8b",
   "lastOpenFiles": [
+    "FES/max14802/MAX14802芯片.md",
+    "FES/分时复用/TDM.md",
+    "FES/分时复用",
+    "FES/max14802/MAX14802.md",
+    "linux项目/README3506.md",
     "linux项目/内核编译config.md",
     "未命名.md",
     "3568驱动/4.把驱动编译进内核.md",
-    "FES/max14802/MAX14802.md",
     "linux项目/1.修改设备树.md",
     "linux项目/裁剪系统.md",
     "linux项目/day2.md",
@@ -288,11 +292,8 @@
     "linux项目/裁剪/视频.md",
     "linux项目/烧录.md",
     "linux项目/未命名 1.md",
-    "linux项目/README3506.md",
     "linux项目/OTA/修改uboot，buildroot，parammeter等.md",
     "linux项目/3.4.md",
-    "3568驱动/6.符号表 符号导出.md",
-    "3568驱动/5.驱动传参.md",
     "linux项目/2.驱动编写",
     "linux项目/单片机课设",
     "Pasted image 20260314145513.png",
@@ -309,7 +310,6 @@
     "System Architecture 3",
     "System Architecture 2",
     "System Architecture 1",
-    "System Architecture",
     "Pasted image 20260304173323.png",
     "Pasted image 20260301214737.png",
     "3568驱动/6..canvas"
