@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux项目/ADB传输文件.md",
+                "file": "服务器/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ADB传输文件"
+              "title": "未命名"
             }
           },
           {
@@ -266,6 +266,9 @@
   "active": "b486e4725145cc8b",
   "lastOpenFiles": [
     "linux项目/测试程序编译.md",
+    "服务器/未命名.md",
+    "服务器",
+    "linux项目/未命名 1.md",
     "linux项目/ADB传输文件.md",
     "linux项目/2.驱动编写/工作流程.md",
     "linux项目/1.修改设备树.md",
@@ -291,8 +294,6 @@
     "3568驱动/7.设备树插件/1..md",
     "3568驱动/1.编译出第一个内核模块.md",
     "未命名 1.md",
-    "linux项目/裁剪/视频.md",
-    "linux项目/烧录.md",
     "linux项目/2.驱动编写",
     "linux项目/单片机课设",
     "Pasted image 20260314145513.png",
@@ -308,7 +309,6 @@
     "System Architecture 4",
     "System Architecture 3",
     "System Architecture 2",
-    "System Architecture 1",
     "Pasted image 20260304173323.png",
     "Pasted image 20260301214737.png",
     "3568驱动/6..canvas"
