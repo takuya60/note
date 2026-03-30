@@ -6,4 +6,7 @@ make ARCH=arm CROSS_COMPILE=/home/alientek/rk3506_linux6.1_sdk_v1.2.0/prebuilts/
 他妈的，修改之后，替换的是vanxoak-。。。3506 deconfig 而不是rk3506_deconfig 也不是linux_deconfig 他妈的万象奥科
 建议直接去修改文本文件
 ![[Pasted image 20260319224858.png]]
+打包命令
+tar -czvf my_project.tar.gz my_project/
+
 
