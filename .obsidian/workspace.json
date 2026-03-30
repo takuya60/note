@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux项目/day2.md",
+                "file": "linux项目/1.修改设备树.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "day2"
+              "title": "1.修改设备树"
             }
           }
         ],
@@ -252,6 +252,10 @@
   },
   "active": "ad03065dceb95854",
   "lastOpenFiles": [
+    "linux项目/裁剪系统知识.md",
+    "linux项目/测试程序编译.md",
+    "linux项目/烧录.md",
+    "linux项目/day2.md",
     "linux项目/ADB传输文件.md",
     "linux项目/2.驱动编写/工作流程.md",
     "linux项目/裁剪/视频.md",
@@ -260,12 +264,8 @@
     "linux项目/1.修改设备树.md",
     "linux项目/OTA/OTA两种方式对比.md",
     "linux项目/3.4.md",
-    "linux项目/裁剪系统知识.md",
-    "linux项目/测试程序编译.md",
     "linux项目/内核编译config.md",
-    "linux项目/烧录.md",
     "linux项目/未命名 1.md",
-    "linux项目/day2.md",
     "linux项目/README3506.md",
     "linux项目/README3568.md",
     "3568驱动/4.把驱动编译进内核.md",
