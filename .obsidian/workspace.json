@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux项目/1.修改设备树.md",
+                "file": "FES/使用文档/msh文档.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.修改设备树"
+              "title": "msh文档"
             }
           }
         ],
@@ -252,6 +252,11 @@
   },
   "active": "ad03065dceb95854",
   "lastOpenFiles": [
+    "FES/使用文档/canfd文档.md",
+    "FES/使用文档/msh文档.md",
+    "FES/使用文档",
+    "FES/ADC+DMA.md",
+    "linux项目/1.修改设备树.md",
     "linux项目/裁剪系统知识.md",
     "linux项目/测试程序编译.md",
     "linux项目/烧录.md",
@@ -261,7 +266,6 @@
     "linux项目/裁剪/视频.md",
     "linux项目/OTA/修改uboot，buildroot，parammeter等.md",
     "linux项目/OTA/AB分区.md",
-    "linux项目/1.修改设备树.md",
     "linux项目/OTA/OTA两种方式对比.md",
     "linux项目/3.4.md",
     "linux项目/内核编译config.md",
@@ -275,14 +279,11 @@
     "3568驱动/USB驱动/1.usb描述符与传输模式.md",
     "3568驱动/1.编译出第一个内核模块.md",
     "3568驱动/USB驱动/libusb的编译.md",
-    "3568驱动/USB驱动/2.数据传输.md",
-    "电刺激设计.md",
     "Pasted image 20260330181055.png",
     "Pasted image 20260330174826.png",
     "Pasted image 20260330174811.png",
     "3568驱动/USB驱动",
     "未命名",
-    "FES/分时复用/TDM.md",
     "掌机",
     "Pasted image 20260325215413.png",
     "Pasted image 20260325215132.png",
@@ -297,7 +298,6 @@
     "Pasted image 20260314144610.png",
     "linux项目/OTA",
     "linux项目/裁剪",
-    "FES/can/System Architecture",
     "3568驱动/6..canvas"
   ]
 }
