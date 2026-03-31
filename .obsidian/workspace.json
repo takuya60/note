@@ -254,6 +254,7 @@
   "lastOpenFiles": [
     "FES/使用文档/canfd文档.md",
     "FES/使用文档/msh文档.md",
+    "Pasted image 20260331163057.png",
     "FES/使用文档",
     "FES/ADC+DMA.md",
     "linux项目/1.修改设备树.md",
@@ -278,7 +279,6 @@
     "掌机/plan.md",
     "3568驱动/USB驱动/1.usb描述符与传输模式.md",
     "3568驱动/1.编译出第一个内核模块.md",
-    "3568驱动/USB驱动/libusb的编译.md",
     "Pasted image 20260330181055.png",
     "Pasted image 20260330174826.png",
     "Pasted image 20260330174811.png",
@@ -295,7 +295,6 @@
     "linux项目/单片机课设",
     "Pasted image 20260314145513.png",
     "Pasted image 20260314145326.png",
-    "Pasted image 20260314144610.png",
     "linux项目/OTA",
     "linux项目/裁剪",
     "3568驱动/6..canvas"
