@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "掌机/1.usb/配置修改.md",
+                "file": "掌机/1.usb/1.USB Gadget Configfs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "配置修改"
+              "title": "1.USB Gadget Configfs"
             }
           }
         ],
@@ -252,8 +252,8 @@
   "active": "ad03065dceb95854",
   "lastOpenFiles": [
     "掌机/1.usb/1.遇到的问题.md",
-    "掌机/1.usb/配置修改.md",
     "掌机/1.usb/1.USB Gadget Configfs.md",
+    "掌机/1.usb/配置修改.md",
     "掌机/内存.md",
     "linux项目/OTA/修改uboot，buildroot，parammeter等.md",
     "linux项目/修改内核配置.md",
