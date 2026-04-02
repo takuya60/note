@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "掌机/1.usb/1.遇到的问题.md",
+                "file": "linux项目/OTA/修改uboot，buildroot，parammeter等.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.遇到的问题"
+              "title": "修改uboot，buildroot，parammeter等"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "deconfig",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -251,11 +252,12 @@
   },
   "active": "ad03065dceb95854",
   "lastOpenFiles": [
+    "linux项目/修改内核配置.md",
+    "掌机/1.usb/1.遇到的问题.md",
+    "掌机/内存.md",
     "掌机/1.usb/1.USB Gadget Configfs.md",
     "掌机/1.usb/配置修改.md",
-    "掌机/1.usb/1.遇到的问题.md",
     "未命名.base",
-    "linux项目/修改内核配置.md",
     "linux项目/OTA/修改uboot，buildroot，parammeter等.md",
     "3568驱动/4.把驱动编译进内核.md",
     "linux项目/1.修改设备树.md",
@@ -269,7 +271,6 @@
     "linux项目/内核编译config.md",
     "linux项目/测试程序编译.md",
     "linux项目/裁剪系统知识.md",
-    "掌机/内存.md",
     "Pasted image 20260331232612.png",
     "Pasted image 20260331225810.png",
     "掌机/plan.md",
