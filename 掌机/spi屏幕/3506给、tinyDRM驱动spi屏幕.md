@@ -35,11 +35,31 @@ CONFIG_SPI_MASTER=y
 CONFIG_SPI_SPIDEV=y
 CONFIG_SPI_ROCKCHIP=y
 ```
-验证成功：烧录开机之后，在/dev/下面可以看到spi0.0节点
+验证成功：在/dev/下面可以看到spi0.0节点
 ## 2.2TinyDRM相关
 menuconfig之后，进入device drivers 再进入 Graphics support
 然后打开
 - Enable legacy fbdev support for your modesetting driver
 - Direct Rendering Manager (XFree86 4.1.0 and higher DRI support
 - DRM support for ILI9341 display panels
-- 
+- DRM support for MIPI DBI compatible panels
+然后进入Frame buffer Devices 打开Support for frame buffer devices
+**注意**  这里的DRM support for ILI9341 display panels是根据你的屏幕的型号来的，如果没有，就需要自己编写驱动。这里的驱动路径在`sdk/kernel/drivers/gpu/drm/tiny`下面
+上面设备树的compatible可以直接进对应的驱动文件里面去看
+**这里修改完之后先不要进行编译**
+等之后编译了，验证成功的方法 ：执行cat /sys/bus/spi/devices/spi0.0/modalias之后，应该出现compatible例如spi:yx240qv29，代表驱动成功加载。**但是这里先不要编译**
+## 3.默认配置修改
+上面修改完如果直接进行编译，DRM support for ILI9341 display panels是不会被编译的，
+因为编译的时候加载了一个名为 `rk3506-display.config` 的补丁包，这个补丁包里会对我们上面的配置进行覆盖。所以我们需要在sdk目录下
+`gedit kernel/arch/arm/configs/rk3506-display.config`
+删掉下面这两句
+    CONFIG_TINYDRM_ILI9341 is not set
+    CONFIG_DRM_PANEL_MIPI_DBI is not set
+然后加上
+```c
+CONFIG_DRM_PANEL_MIPI_DBI=y
+CONFIG_TINYDRM_ILI9341=y
+
+```
+
+
