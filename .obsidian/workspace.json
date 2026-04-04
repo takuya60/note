@@ -251,8 +251,9 @@
   },
   "active": "ad03065dceb95854",
   "lastOpenFiles": [
-    "掌机/spi屏幕/rk3506g上用tinyDRM驱动spi屏幕.md",
+    "掌机/常用调试命令.md",
     "掌机/按键/input.md",
+    "掌机/spi屏幕/rk3506g上用tinyDRM驱动spi屏幕.md",
     "掌机/按键",
     "linux项目/修改内核配置.md",
     "掌机/内存.md",
@@ -287,7 +288,6 @@
     "FES/使用文档/canfd文档.md",
     "Pasted image 20260331163057.png",
     "FES/使用文档",
-    "FES/ADC+DMA.md",
     "Pasted image 20260330181055.png",
     "Pasted image 20260330174826.png",
     "Pasted image 20260330174811.png",
