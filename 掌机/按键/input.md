@@ -29,3 +29,4 @@ gpiochip3: GPIOs 96-127, parent: platform/ff1d0000.gpio, gpio3:
  gpio-105 (                    |Desk/Game Mode Switc) in  lo IRQ ACTIVE LOW
 
 
+dmesg | grep -iE "snd|asoc|simple|sai|max98"
