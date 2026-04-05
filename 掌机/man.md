@@ -18,3 +18,4 @@ export SDL_VIDEO_YUV_HWACCEL=0
 fbset -depth 16
 cd /mnt/usb/ps
 ./pcsx -cdfile roms/re3.chd < /dev/tty1
+./pcsx -cdfile roms/FF7.chd < /dev/tty1
