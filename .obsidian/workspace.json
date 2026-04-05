@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "掌机/man.md",
+                "file": "掌机/spi屏幕/rk3506g上用tinyDRM驱动spi屏幕.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "man"
+              "title": "rk3506g上用tinyDRM驱动spi屏幕"
             }
           }
         ],
@@ -251,10 +251,10 @@
   },
   "active": "ad03065dceb95854",
   "lastOpenFiles": [
+    "掌机/man.md",
     "掌机/内存.md",
     "掌机/spi屏幕/rk3506g上用tinyDRM驱动spi屏幕.md",
     "掌机/plan.md",
-    "掌机/man.md",
     "掌机/常用调试命令.md",
     "3568驱动/USB驱动/libusb的编译.md",
     "掌机/按键/input.md",
