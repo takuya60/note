@@ -1,6 +1,10 @@
 
  cat /sys/kernel/debug/gpio 查看gpio分配情况
- 
+
+![[Pasted image 20260405230942.png]]
+![[Pasted image 20260405230957.png]]
+
+```c
 
 gpiochip0: GPIOs 0-31, parent: platform/ff940000.gpio, gpio0:
  gpio-8   (                    |PS Triangle (Triangl) in  hi IRQ ACTIVE LOW
@@ -28,5 +32,5 @@ gpiochip3: GPIOs 96-127, parent: platform/ff1d0000.gpio, gpio3:
  gpio-104 (                    |Select              ) in  lo IRQ ACTIVE LOW
  gpio-105 (                    |Desk/Game Mode Switc) in  lo IRQ ACTIVE LOW
 
-
+```
 dmesg | grep -iE "snd|asoc|simple|sai|max98"

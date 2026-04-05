@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "掌机/spi屏幕/rk3506g上用tinyDRM驱动spi屏幕.md",
+                "file": "掌机/4.ps1模拟器/3506移植ps1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rk3506g上用tinyDRM驱动spi屏幕"
+              "title": "3506移植ps1"
             }
           }
         ],
@@ -251,22 +251,26 @@
   },
   "active": "ad03065dceb95854",
   "lastOpenFiles": [
-    "掌机/man.md",
-    "掌机/内存.md",
-    "掌机/spi屏幕/rk3506g上用tinyDRM驱动spi屏幕.md",
+    "掌机/4.ps1模拟器/man.md",
+    "掌机/4.ps1模拟器/3506移植ps1.md",
+    "掌机/3.按键/input.md",
+    "Pasted image 20260405230957.png",
+    "Pasted image 20260405230942.png",
     "掌机/plan.md",
     "掌机/常用调试命令.md",
+    "掌机/内存.md",
+    "掌机/2.spi屏幕/rk3506g上用tinyDRM驱动spi屏幕.md",
+    "掌机/4.ps1模拟器",
+    "掌机/1.usb/配置修改.md",
+    "掌机/1.usb/1.USB Gadget Configfs.md",
+    "掌机/1.usb/1.遇到的问题.md",
     "3568驱动/USB驱动/libusb的编译.md",
-    "掌机/按键/input.md",
-    "掌机/按键",
+    "掌机/3.按键",
     "linux项目/修改内核配置.md",
     "FES/H7文档.md",
     "linux项目/1.修改设备树.md",
     "3568驱动/10.SPI子系统 mcp2515例子/5.设备树的修改.md",
-    "掌机/spi屏幕",
-    "掌机/1.usb/1.USB Gadget Configfs.md",
-    "掌机/1.usb/1.遇到的问题.md",
-    "掌机/1.usb/配置修改.md",
+    "掌机/2.spi屏幕",
     "linux项目/OTA/修改uboot，buildroot，parammeter等.md",
     "未命名.base",
     "3568驱动/4.把驱动编译进内核.md",
@@ -279,7 +283,6 @@
     "linux项目/烧录.md",
     "linux项目/内核编译config.md",
     "linux项目/测试程序编译.md",
-    "linux项目/裁剪系统知识.md",
     "Pasted image 20260331232612.png",
     "Pasted image 20260331225810.png",
     "Pasted image 20260331225158.png",
@@ -290,13 +293,10 @@
     "FES/使用文档",
     "Pasted image 20260330181055.png",
     "Pasted image 20260330174826.png",
-    "Pasted image 20260330174811.png",
     "3568驱动/USB驱动",
     "未命名",
     "掌机",
-    "Pasted image 20260325215413.png",
     "服务器",
-    "FES/分时复用",
     "3568驱动/6..canvas"
   ]
 }
