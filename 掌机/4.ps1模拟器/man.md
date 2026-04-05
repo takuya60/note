@@ -19,3 +19,18 @@ fbset -depth 16
 cd /mnt/usb/ps
 ./pcsx -cdfile roms/re3.chd < /dev/tty1
 ./pcsx -cdfile roms/FF7.chd < /dev/tty1
+
+## 启动脚本
+```c
+#!/bin/sh
+
+echo "正在初始化 PS1 掌机环境..."
+
+export SDL_VIDEODRIVER=fbcon
+export SDL_FBDEV=/dev/fb0
+export SDL_NOMOUSE=1 // 不然傻逼sdl会因为没有鼠标报错
+
+# 启动游戏
+cd /mnt/usb/ps
+./pcsx -cdfile roms/re3.chd < /dev/tty1
+```
