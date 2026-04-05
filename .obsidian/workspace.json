@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed7c9f0f78913ffd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FES/H7文档.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "H7文档"
-            }
-          },
-          {
-            "id": "b703fb5ca7f0f918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux项目/1.修改设备树.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.修改设备树"
-            }
-          },
-          {
-            "id": "b486e4725145cc8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FES/ADC+DMA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ADC+DMA"
-            }
-          },
-          {
             "id": "ad03065dceb95854",
             "type": "leaf",
             "state": {
@@ -63,8 +21,7 @@
               "title": "3506移植ps1"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 345.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,15 +209,19 @@
   },
   "active": "ad03065dceb95854",
   "lastOpenFiles": [
-    "掌机/4.ps1模拟器/man.md",
-    "掌机/常用调试命令.md",
+    "掌机/2.spi屏幕/rk3506g上用tinyDRM驱动spi屏幕.md",
     "掌机/4.ps1模拟器/3506移植ps1.md",
+    "掌机/调试命令.md",
+    "掌机/plan.md",
+    "FES/ADC+DMA.md",
+    "linux项目/1.修改设备树.md",
+    "FES/H7文档.md",
+    "掌机/内存.md",
+    "服务器/a.md",
+    "掌机/4.ps1模拟器/man.md",
     "掌机/3.按键/input.md",
     "Pasted image 20260405230957.png",
     "Pasted image 20260405230942.png",
-    "掌机/plan.md",
-    "掌机/内存.md",
-    "掌机/2.spi屏幕/rk3506g上用tinyDRM驱动spi屏幕.md",
     "掌机/4.ps1模拟器",
     "掌机/1.usb/配置修改.md",
     "掌机/1.usb/1.USB Gadget Configfs.md",
@@ -267,8 +229,6 @@
     "3568驱动/USB驱动/libusb的编译.md",
     "掌机/3.按键",
     "linux项目/修改内核配置.md",
-    "FES/H7文档.md",
-    "linux项目/1.修改设备树.md",
     "3568驱动/10.SPI子系统 mcp2515例子/5.设备树的修改.md",
     "掌机/2.spi屏幕",
     "linux项目/OTA/修改uboot，buildroot，parammeter等.md",
@@ -281,8 +241,6 @@
     "linux项目/3.4.md",
     "linux项目/未命名 1.md",
     "linux项目/烧录.md",
-    "linux项目/内核编译config.md",
-    "linux项目/测试程序编译.md",
     "Pasted image 20260331232612.png",
     "Pasted image 20260331225810.png",
     "Pasted image 20260331225158.png",
