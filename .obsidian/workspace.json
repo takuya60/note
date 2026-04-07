@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux项目/ADB传输文件.md",
+                "file": "掌机/1.usb/1.遇到的问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ADB传输文件"
+              "title": "1.遇到的问题"
             }
           }
         ]
@@ -210,6 +210,7 @@
   },
   "active": "ad03065dceb95854",
   "lastOpenFiles": [
+    "linux项目/ADB传输文件.md",
     "FES/使用文档/canfd文档.md",
     "FES/使用文档/msh文档.md",
     "电刺激设计.md",
@@ -241,7 +242,6 @@
     "linux项目/裁剪/视频.md",
     "linux项目/2.驱动编写/工作流程.md",
     "linux项目/OTA/OTA两种方式对比.md",
-    "linux项目/OTA/AB分区.md",
     "Pasted image 20260331232612.png",
     "Pasted image 20260331225810.png",
     "Pasted image 20260331225158.png",
