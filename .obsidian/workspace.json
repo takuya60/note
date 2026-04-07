@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "掌机/1.usb/1.遇到的问题.md",
+                "file": "linux项目/ADB传输文件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.遇到的问题"
+              "title": "ADB传输文件"
             }
           }
         ]
@@ -210,6 +210,7 @@
   },
   "active": "ad03065dceb95854",
   "lastOpenFiles": [
+    "掌机/1.usb/1.遇到的问题.md",
     "linux项目/ADB传输文件.md",
     "FES/使用文档/canfd文档.md",
     "FES/使用文档/msh文档.md",
@@ -230,7 +231,6 @@
     "掌机/4.ps1模拟器",
     "掌机/1.usb/配置修改.md",
     "掌机/1.usb/1.USB Gadget Configfs.md",
-    "掌机/1.usb/1.遇到的问题.md",
     "3568驱动/USB驱动/libusb的编译.md",
     "掌机/3.按键",
     "linux项目/修改内核配置.md",
