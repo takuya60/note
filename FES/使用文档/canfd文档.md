@@ -1,6 +1,6 @@
 ### fdcan配置
 代码中fdcan配置为80MHz 
-仲裁位500K 数据位5M
+仲裁位500K 数据位5·M
 # 数据协议
 详细见`stim_fdcan_protocol.h`
 未开启过滤器 所有id的帧的命令都可以接收
