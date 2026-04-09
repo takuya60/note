@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FES/adc/ADC+DMA.md",
+                "file": "FES/adc/滤波算法选择.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ADC+DMA"
+              "title": "滤波算法选择"
             }
           }
         ]
@@ -209,8 +209,8 @@
   },
   "active": "ad03065dceb95854",
   "lastOpenFiles": [
-    "FES/adc/滤波算法选择.md",
     "FES/adc/ADC+DMA.md",
+    "FES/adc/滤波算法选择.md",
     "FES/adc",
     "FES/使用文档/msh文档.md",
     "FES/使用文档/canfd文档.md",
