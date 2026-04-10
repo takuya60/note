@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FES/adc/使用.md",
+                "file": "掌机/调试命令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "使用"
+              "title": "调试命令"
             }
           }
         ]
@@ -209,8 +209,9 @@
   },
   "active": "ad03065dceb95854",
   "lastOpenFiles": [
-    "FES/adc/滤波算法选择.md",
+    "掌机/plan.md",
     "FES/adc/使用.md",
+    "FES/adc/滤波算法选择.md",
     "FES/adc/ADC+DMA.md",
     "FES/adc",
     "FES/使用文档/msh文档.md",
@@ -218,7 +219,6 @@
     "掌机/2.spi屏幕/rk3506g上用tinyDRM驱动spi屏幕.md",
     "掌机/4.ps1模拟器/man.md",
     "掌机/4.ps1模拟器/3506移植ps1.md",
-    "掌机/plan.md",
     "掌机/内存.md",
     "linux项目/README3568.md",
     "linux项目/README3506.md",
