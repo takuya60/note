@@ -20,6 +20,8 @@ cd /mnt/usb/ps
 ./pcsx -cdfile roms/re3.chd < /dev/tty1
 ./pcsx -cdfile roms/FF7.chd < /dev/tty1
 
+umount /dev/sda1
+umount /dev/mmcblk0p1
 ## 启动脚本
 ```c
 #!/bin/sh
