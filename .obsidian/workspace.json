@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FES/adc/滤波算法选择.md",
+                "file": "FES/adc/使用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "滤波算法选择"
+              "title": "使用"
             }
           }
         ]
@@ -209,8 +209,9 @@
   },
   "active": "ad03065dceb95854",
   "lastOpenFiles": [
-    "FES/adc/ADC+DMA.md",
     "FES/adc/滤波算法选择.md",
+    "FES/adc/使用.md",
+    "FES/adc/ADC+DMA.md",
     "FES/adc",
     "FES/使用文档/msh文档.md",
     "FES/使用文档/canfd文档.md",
@@ -241,7 +242,6 @@
     "掌机/2.spi屏幕",
     "linux项目/OTA/修改uboot，buildroot，parammeter等.md",
     "未命名.base",
-    "3568驱动/4.把驱动编译进内核.md",
     "Pasted image 20260331232612.png",
     "Pasted image 20260331225810.png",
     "Pasted image 20260331225158.png",
