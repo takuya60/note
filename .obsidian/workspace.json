@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "掌机/1.usb/1.遇到的问题.md",
+                "file": "rt-thread源码阅读/day3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.遇到的问题"
+              "title": "day3"
             }
           }
         ]
@@ -206,11 +206,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7f5d368483c0a2f2",
+  "active": "ad03065dceb95854",
   "lastOpenFiles": [
-    "未命名",
-    "掌机/1.usb/1.USB Gadget Configfs.md",
+    "电刺激设计.md",
+    "rt-thread源码阅读/day3.md",
     "掌机/1.usb/1.遇到的问题.md",
+    "rt-thread源码阅读",
+    "掌机/1.usb/1.USB Gadget Configfs.md",
     "掌机/1.usb/配置修改.md",
     "掌机/4.ps1模拟器/man.md",
     "掌机/4.ps1模拟器/3506移植ps1.md",
@@ -228,7 +230,6 @@
     "掌机/2.spi屏幕/rk3506g上用tinyDRM驱动spi屏幕.md",
     "linux项目/README3568.md",
     "linux项目/README3506.md",
-    "电刺激设计.md",
     "linux项目/1.修改设备树.md",
     "FES/H7文档.md",
     "服务器/a.md",
