@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "掌机/1.usb/1.USB Gadget Configfs.md",
+                "file": "掌机/1.usb/1.遇到的问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.USB Gadget Configfs"
+              "title": "1.遇到的问题"
             }
           }
         ]
@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5,
-    "collapsed": true
+    "width": 345.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,9 +208,9 @@
   },
   "active": "ad03065dceb95854",
   "lastOpenFiles": [
+    "掌机/1.usb/1.USB Gadget Configfs.md",
     "掌机/1.usb/1.遇到的问题.md",
     "掌机/1.usb/配置修改.md",
-    "掌机/1.usb/1.USB Gadget Configfs.md",
     "掌机/4.ps1模拟器/man.md",
     "掌机/4.ps1模拟器/3506移植ps1.md",
     "掌机/3.按键/input.md",
