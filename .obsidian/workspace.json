@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "掌机/1.usb/1.遇到的问题.md",
+                "file": "掌机/1.usb/1.USB Gadget Configfs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.遇到的问题"
+              "title": "1.USB Gadget Configfs"
             }
           }
         ]
@@ -209,8 +209,9 @@
   },
   "active": "ad03065dceb95854",
   "lastOpenFiles": [
-    "掌机/1.usb/1.USB Gadget Configfs.md",
+    "掌机/1.usb/1.遇到的问题.md",
     "掌机/1.usb/配置修改.md",
+    "掌机/1.usb/1.USB Gadget Configfs.md",
     "掌机/4.ps1模拟器/man.md",
     "掌机/4.ps1模拟器/3506移植ps1.md",
     "掌机/3.按键/input.md",
@@ -227,7 +228,6 @@
     "掌机/2.spi屏幕/rk3506g上用tinyDRM驱动spi屏幕.md",
     "linux项目/README3568.md",
     "linux项目/README3506.md",
-    "掌机/1.usb/1.遇到的问题.md",
     "电刺激设计.md",
     "linux项目/1.修改设备树.md",
     "FES/H7文档.md",
