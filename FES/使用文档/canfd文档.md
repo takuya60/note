@@ -23,7 +23,7 @@
 | `0x11` | CH_MASK | `[0x11, maskB3, maskB2, maskB1, maskB0]` | 按32位掩码设置全部通道 |
 | `0x12` | CH_CLEAR | `[0x12]` | 清除所有通道，无参数 |
 | `0x16` | CH_PAIR | `[0x16, anode, cathode]` | 设置成对电极 |
-| `0x16` | CH_PPAIR | `[0x17, anode0, anode1]` | 设置成对物理电极 |
+| `0x17` | CH_PPAIR | `[0x17, anode0, anode1]` | 设置成对物理电极 |
 
 ### 使用示例
 先打开通道
