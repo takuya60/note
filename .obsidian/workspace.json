@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rt-thread源码阅读/day3.md",
+                "file": "FES/使用文档/canfd文档.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "day3"
+              "title": "canfd文档"
             }
           }
         ]
@@ -208,8 +208,9 @@
   },
   "active": "ad03065dceb95854",
   "lastOpenFiles": [
-    "电刺激设计.md",
+    "FES/使用文档/msh文档.md",
     "rt-thread源码阅读/day3.md",
+    "电刺激设计.md",
     "掌机/1.usb/1.遇到的问题.md",
     "rt-thread源码阅读",
     "掌机/1.usb/1.USB Gadget Configfs.md",
@@ -225,7 +226,6 @@
     "FES/adc/滤波算法选择.md",
     "FES/adc/ADC+DMA.md",
     "FES/adc",
-    "FES/使用文档/msh文档.md",
     "FES/使用文档/canfd文档.md",
     "掌机/2.spi屏幕/rk3506g上用tinyDRM驱动spi屏幕.md",
     "linux项目/README3568.md",
