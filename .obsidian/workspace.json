@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3568驱动/4.中断/2.中断tasklet中断下文.md",
+                "file": "3568驱动/4.中断/6.从设备树拿资源.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.中断tasklet中断下文"
+              "title": "6.从设备树拿资源"
             }
           }
         ]
@@ -208,9 +208,24 @@
   },
   "active": "ad03065dceb95854",
   "lastOpenFiles": [
+    "3568驱动/10.SPI子系统 mcp2515例子/3..md",
+    "3568驱动/4.中断/6.从设备树拿资源.md",
+    "3568驱动/10.SPI子系统 mcp2515例子/4..md",
+    "3568驱动/10.SPI子系统 mcp2515例子/2. SPI子系统 平台总线 设备树 三者关系.md",
+    "3568驱动/10.SPI子系统 mcp2515例子/1..md",
+    "3568驱动/10.SPI子系统 mcp2515例子/5.设备树的修改.md",
+    "3568驱动/5.平台总线/2.driver.md",
+    "3568驱动/5.平台总线/1.device.md",
+    "3568驱动/4.中断/5.1设备树的写法.md",
+    "3568驱动/4.中断/5.中断线程化.md",
+    "3568驱动/4.中断/4.工作队列.md",
+    "3568驱动/4.中断/3.软中断.md",
+    "Pasted image 20260412223918.png",
+    "Pasted image 20260412223852.png",
+    "Pasted image 20260412223818.png",
+    "3568驱动/4.中断/2.中断tasklet中断下文.md",
     "Pasted image 20260412223544.png",
     "3568驱动/4.中断/1.申请中断.md",
-    "3568驱动/4.中断/2.中断tasklet中断下文.md",
     "linux应用/系统信息与系统资源.md",
     "linux应用/标准IO库.md",
     "linux应用/信号2.md",
@@ -224,18 +239,7 @@
     "rt-thread源码阅读",
     "掌机/1.usb/1.USB Gadget Configfs.md",
     "掌机/1.usb/配置修改.md",
-    "掌机/4.ps1模拟器/man.md",
-    "掌机/4.ps1模拟器/3506移植ps1.md",
-    "掌机/3.按键/input.md",
-    "linux项目/ADB传输文件.md",
-    "掌机/调试命令.md",
-    "掌机/内存.md",
-    "掌机/plan.md",
-    "FES/adc/使用.md",
-    "FES/adc/滤波算法选择.md",
-    "FES/adc/ADC+DMA.md",
     "FES/adc",
-    "掌机/2.spi屏幕/rk3506g上用tinyDRM驱动spi屏幕.md",
     "Pasted image 20260405230957.png",
     "Pasted image 20260405230942.png",
     "掌机/4.ps1模拟器",
@@ -246,12 +250,8 @@
     "Pasted image 20260331225810.png",
     "Pasted image 20260331225158.png",
     "Pasted image 20260331225049.png",
-    "Pasted image 20260331224623.png",
     "掌机/1.usb",
-    "Pasted image 20260331163057.png",
     "FES/使用文档",
-    "Pasted image 20260330181055.png",
-    "Pasted image 20260330174826.png",
     "3568驱动/USB驱动",
     "掌机",
     "3568驱动/6..canvas"
