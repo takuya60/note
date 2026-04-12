@@ -11,10 +11,14 @@
             "id": "ad03065dceb95854",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3568驱动/4.中断/1.申请中断.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "1.申请中断"
             }
           }
         ]
@@ -204,6 +208,11 @@
   },
   "active": "7f5d368483c0a2f2",
   "lastOpenFiles": [
+    "linux应用/系统信息与系统资源.md",
+    "linux应用/标准IO库.md",
+    "linux应用/信号2.md",
+    "linux应用/信号3 实时信号.md",
+    "linux应用/信号 （基础）.md",
     "FES/使用文档/msh文档.md",
     "FES/使用文档/canfd文档.md",
     "rt-thread源码阅读/day3.md",
@@ -227,15 +236,10 @@
     "linux项目/README3568.md",
     "linux项目/README3506.md",
     "linux项目/1.修改设备树.md",
-    "FES/H7文档.md",
-    "服务器/a.md",
     "Pasted image 20260405230957.png",
     "Pasted image 20260405230942.png",
     "掌机/4.ps1模拟器",
-    "3568驱动/USB驱动/libusb的编译.md",
     "掌机/3.按键",
-    "linux项目/修改内核配置.md",
-    "3568驱动/10.SPI子系统 mcp2515例子/5.设备树的修改.md",
     "掌机/2.spi屏幕",
     "未命名.base",
     "Pasted image 20260331232612.png",
