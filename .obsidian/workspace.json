@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fd",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,11 +206,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "eae130eba2573da8",
+  "active": "ad03065dceb95854",
   "lastOpenFiles": [
-    "Pasted image 20260413212608.png",
+    "随笔/linux/2. 4月13.md",
     "随笔/linux/1. 4月12.md",
     "linux驱动/11.mmap/1.mmap使用.md",
+    "Pasted image 20260413214338.png",
+    "Pasted image 20260413212608.png",
     "linux驱动/11.mmap",
     "linux驱动/4.中断/6.从设备树拿资源.md",
     "随笔/linux",
@@ -252,8 +253,6 @@
     "未命名.base",
     "Pasted image 20260331232612.png",
     "Pasted image 20260331225810.png",
-    "Pasted image 20260331225158.png",
-    "Pasted image 20260331225049.png",
     "掌机/1.usb",
     "3568驱动/6..canvas"
   ]
