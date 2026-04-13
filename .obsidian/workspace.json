@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随笔/linux/1. 4月12.md",
+                "file": "linux驱动/11.mmap/1.mmap使用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 4月12"
+              "title": "1.mmap使用"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,29 +207,32 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ad03065dceb95854",
+  "active": "eae130eba2573da8",
   "lastOpenFiles": [
-    "3568驱动/4.中断/6.从设备树拿资源.md",
+    "Pasted image 20260413212608.png",
     "随笔/linux/1. 4月12.md",
+    "linux驱动/11.mmap/1.mmap使用.md",
+    "linux驱动/11.mmap",
+    "linux驱动/4.中断/6.从设备树拿资源.md",
     "随笔/linux",
     "随笔",
-    "3568驱动/10.SPI子系统 mcp2515例子/3..md",
-    "3568驱动/10.SPI子系统 mcp2515例子/4..md",
-    "3568驱动/10.SPI子系统 mcp2515例子/2. SPI子系统 平台总线 设备树 三者关系.md",
-    "3568驱动/10.SPI子系统 mcp2515例子/1..md",
-    "3568驱动/10.SPI子系统 mcp2515例子/5.设备树的修改.md",
-    "3568驱动/5.平台总线/2.driver.md",
-    "3568驱动/5.平台总线/1.device.md",
-    "3568驱动/4.中断/5.1设备树的写法.md",
-    "3568驱动/4.中断/5.中断线程化.md",
-    "3568驱动/4.中断/4.工作队列.md",
-    "3568驱动/4.中断/3.软中断.md",
+    "linux驱动/10.SPI子系统 mcp2515例子/3..md",
+    "linux驱动/10.SPI子系统 mcp2515例子/4..md",
+    "linux驱动/10.SPI子系统 mcp2515例子/2. SPI子系统 平台总线 设备树 三者关系.md",
+    "linux驱动/10.SPI子系统 mcp2515例子/1..md",
+    "linux驱动/10.SPI子系统 mcp2515例子/5.设备树的修改.md",
+    "linux驱动/5.平台总线/2.driver.md",
+    "linux驱动/5.平台总线/1.device.md",
+    "linux驱动/4.中断/5.1设备树的写法.md",
+    "linux驱动/4.中断/5.中断线程化.md",
+    "linux驱动/4.中断/4.工作队列.md",
+    "linux驱动/4.中断/3.软中断.md",
     "Pasted image 20260412223918.png",
     "Pasted image 20260412223852.png",
     "Pasted image 20260412223818.png",
-    "3568驱动/4.中断/2.中断tasklet中断下文.md",
+    "linux驱动/4.中断/2.中断tasklet中断下文.md",
     "Pasted image 20260412223544.png",
-    "3568驱动/4.中断/1.申请中断.md",
+    "linux驱动/4.中断/1.申请中断.md",
     "linux应用/系统信息与系统资源.md",
     "linux应用/标准IO库.md",
     "linux应用/信号2.md",
@@ -238,9 +242,7 @@
     "FES/使用文档/canfd文档.md",
     "rt-thread源码阅读/day3.md",
     "电刺激设计.md",
-    "掌机/1.usb/1.遇到的问题.md",
     "rt-thread源码阅读",
-    "掌机/1.usb/1.USB Gadget Configfs.md",
     "FES/adc",
     "Pasted image 20260405230957.png",
     "Pasted image 20260405230942.png",
@@ -253,7 +255,6 @@
     "Pasted image 20260331225158.png",
     "Pasted image 20260331225049.png",
     "掌机/1.usb",
-    "FES/使用文档",
     "3568驱动/6..canvas"
   ]
 }
