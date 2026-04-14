@@ -206,8 +206,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ad03065dceb95854",
+  "active": "7f5d368483c0a2f2",
   "lastOpenFiles": [
+    "linux驱动/13.网络设备",
     "linux驱动/3.字符设备进阶/3.Linux定时器.md",
     "linux驱动/3.字符设备进阶/2.信号驱动IO.md",
     "linux驱动/3.字符设备进阶/1.阻塞IO 等待队列.md",
@@ -245,7 +246,6 @@
     "linux驱动/4.中断/1.申请中断.md",
     "linux应用/系统信息与系统资源.md",
     "linux应用/标准IO库.md",
-    "linux应用/信号2.md",
     "rt-thread源码阅读",
     "FES/adc",
     "Pasted image 20260405230957.png",
