@@ -206,8 +206,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ad03065dceb95854",
+  "active": "7f5d368483c0a2f2",
   "lastOpenFiles": [
+    "linux驱动/未命名",
     "随笔/linux/2. 4月13.md",
     "随笔/linux/1. 4月12.md",
     "linux驱动/11.mmap/1.mmap使用.md",
@@ -242,7 +243,6 @@
     "FES/使用文档/msh文档.md",
     "FES/使用文档/canfd文档.md",
     "rt-thread源码阅读/day3.md",
-    "电刺激设计.md",
     "rt-thread源码阅读",
     "FES/adc",
     "Pasted image 20260405230957.png",
