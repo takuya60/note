@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux驱动/12. v4l2/1. vivid驱动.md",
+                "file": "linux驱动/12. v4l2/2.vivid驱动2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. vivid驱动"
+              "title": "2.vivid驱动2"
             }
           }
         ]
@@ -208,10 +208,12 @@
   },
   "active": "ad03065dceb95854",
   "lastOpenFiles": [
+    "linux驱动/12. v4l2/1. vivid驱动.md",
+    "linux驱动/12. v4l2/2.vivid驱动2.md",
+    "随笔/linux/3. 4月14.md",
     "Pasted image 20260414162408.png",
     "Pasted image 20260414162356.png",
     "linux驱动/11.mmap/1.mmap使用.md",
-    "linux驱动/12. v4l2/1. vivid驱动.md",
     "linux驱动/12. v4l2",
     "随笔/linux/2. 4月13.md",
     "随笔/linux/1. 4月12.md",
@@ -244,7 +246,6 @@
     "linux应用/信号3 实时信号.md",
     "linux应用/信号 （基础）.md",
     "FES/使用文档/msh文档.md",
-    "FES/使用文档/canfd文档.md",
     "rt-thread源码阅读",
     "FES/adc",
     "Pasted image 20260405230957.png",
@@ -253,7 +254,6 @@
     "掌机/3.按键",
     "掌机/2.spi屏幕",
     "未命名.base",
-    "Pasted image 20260331232612.png",
     "3568驱动/6..canvas"
   ]
 }
