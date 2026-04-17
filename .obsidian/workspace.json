@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux驱动/4.中断/4.工作队列.md",
+                "file": "掌机/1.usb/1.USB Gadget Configfs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.工作队列"
+              "title": "1.USB Gadget Configfs"
             }
           }
         ]
@@ -208,6 +208,12 @@
   },
   "active": "ad03065dceb95854",
   "lastOpenFiles": [
+    "linux项目/2.驱动编写/工作流程.md",
+    "电刺激设计.md",
+    "回调函数.md",
+    "未命名.md",
+    "未命名.base",
+    "linux驱动/4.中断/4.工作队列.md",
     "linux驱动/3.字符设备进阶/4.ioctl.md",
     "linux驱动/13.网络设备",
     "linux驱动/3.字符设备进阶/3.Linux定时器.md",
@@ -237,23 +243,17 @@
     "linux驱动/5.平台总线/1.device.md",
     "linux驱动/4.中断/5.1设备树的写法.md",
     "linux驱动/4.中断/5.中断线程化.md",
-    "linux驱动/4.中断/4.工作队列.md",
     "linux驱动/4.中断/3.软中断.md",
     "Pasted image 20260412223918.png",
     "Pasted image 20260412223852.png",
     "Pasted image 20260412223818.png",
-    "linux驱动/4.中断/2.中断tasklet中断下文.md",
     "Pasted image 20260412223544.png",
-    "linux驱动/4.中断/1.申请中断.md",
-    "linux应用/系统信息与系统资源.md",
-    "linux应用/标准IO库.md",
     "rt-thread源码阅读",
     "FES/adc",
     "Pasted image 20260405230957.png",
     "Pasted image 20260405230942.png",
     "掌机/4.ps1模拟器",
     "掌机/3.按键",
-    "掌机/2.spi屏幕",
     "3568驱动/6..canvas"
   ]
 }
