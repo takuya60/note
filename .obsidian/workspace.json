@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "grep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,7 +207,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ad03065dceb95854",
+  "active": "eae130eba2573da8",
   "lastOpenFiles": [
     "linux驱动/10.SPI子系统 mcp2515例子/5.设备树的修改.md",
     "随笔/linux/4. 4.17.md",
