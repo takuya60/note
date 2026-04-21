@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grep",
+                "query": "设备树",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,7 +207,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ad03065dceb95854",
+  "active": "eae130eba2573da8",
   "lastOpenFiles": [
     "linux驱动/12. v4l2/3.rk3568-csi设备树讲解.md",
     "随笔/linux/5. 4.21.md",
