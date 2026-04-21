@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux驱动/12. v4l2/4. ov13850信息.md",
+                "file": "linux驱动/12. v4l2/3.rk3568-csi设备树讲解.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. ov13850信息"
+              "title": "3.rk3568-csi设备树讲解"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "CRU",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,8 +209,8 @@
   },
   "active": "ad03065dceb95854",
   "lastOpenFiles": [
-    "linux驱动/12. v4l2/1. vivid驱动.md",
     "linux驱动/12. v4l2/4. ov13850信息.md",
+    "linux驱动/12. v4l2/1. vivid驱动.md",
     "linux驱动/6.设备树/3.中断示例.md",
     "Pasted image 20260421203629.png",
     "linux驱动/6.设备树/6.of操作函数获取中断.md",
