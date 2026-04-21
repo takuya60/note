@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随笔/linux/5. 4.21.md",
+                "file": "linux驱动/6.设备树/3.中断示例.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. 4.21"
+              "title": "3.中断示例"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "设备树",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,10 +206,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "eae130eba2573da8",
+  "active": "ad03065dceb95854",
   "lastOpenFiles": [
-    "linux驱动/12. v4l2/3.rk3568-csi设备树讲解.md",
+    "Pasted image 20260421203629.png",
+    "linux驱动/6.设备树/6.of操作函数获取中断.md",
     "随笔/linux/5. 4.21.md",
+    "linux驱动/12. v4l2/3.rk3568-csi设备树讲解.md",
     "linux驱动/12. v4l2/2.vivid驱动2.md",
     "linux驱动/12. v4l2/1. vivid驱动.md",
     "掌机/调试命令.md",
@@ -228,13 +229,11 @@
     "linux驱动/4.中断/6.从设备树拿资源.md",
     "linux驱动/4.中断/2.中断tasklet中断下文.md",
     "linux驱动/6.设备树/4.时钟.md",
-    "linux驱动/6.设备树/6.of操作函数获取中断.md",
     "linux驱动/6.设备树/3.中断示例.md",
     "linux驱动/7.设备树插件/1..md",
     "linux驱动/9.输入子系统/2..md",
     "linux驱动/9.输入子系统/3..md",
     "linux驱动/9.输入子系统/1..md",
-    "linux驱动/7.设备树插件/2..md",
     "未命名.base",
     "linux驱动/13.网络设备",
     "Pasted image 20260414162408.png",
