@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,7 +206,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ad03065dceb95854",
+  "active": "7f5d368483c0a2f2",
   "lastOpenFiles": [
     "随笔/linux/4. 4.17.md",
     "linux驱动/10.SPI子系统 mcp2515例子/5.设备树的修改.md",
