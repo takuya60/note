@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CRU",
+                "query": "adb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,7 +207,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7f5d368483c0a2f2",
+  "active": "eae130eba2573da8",
   "lastOpenFiles": [
     "电刺激设计.md",
     "linux驱动/5.平台总线/1.device.md",
