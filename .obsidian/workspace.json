@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux驱动/12. v4l2/驱动调试.md",
+                "file": "linux项目/ADB传输文件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "驱动调试"
+              "title": "ADB传输文件"
             }
           }
         ]
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,8 +209,8 @@
   },
   "active": "ad03065dceb95854",
   "lastOpenFiles": [
-    "linux项目/ADB传输文件.md",
     "linux驱动/12. v4l2/驱动调试.md",
+    "linux项目/ADB传输文件.md",
     "FES/使用文档/msh文档.md",
     "电刺激设计.md",
     "linux驱动/5.平台总线/1.device.md",
