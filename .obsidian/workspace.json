@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数模校选/论文完善稿2.md",
+                "file": "数模校选/论文latex同步稿.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "论文完善稿2"
+              "title": "论文latex同步稿"
             }
           }
         ],
@@ -223,6 +223,8 @@
   },
   "active": "6fb7cd004c514a5b",
   "lastOpenFiles": [
+    "数模校选/题中的参数关系.md",
+    "数模校选/论文latex同步稿.md",
     "数模校选/论文完善稿.md",
     "数模校选/论文完善稿2.md",
     "数模校选/论文初稿.md",
@@ -234,7 +236,6 @@
     "数模校选/Q3.md",
     "数模校选/Q2_result.md",
     "数模校选/Q2.md",
-    "数模校选/题中的参数关系.md",
     "linux驱动/12. v4l2/3.rk3568-csi设备树讲解.md",
     "数模校选",
     "未命名.md",
@@ -249,7 +250,6 @@
     "linux驱动/5.平台总线/1.device.md",
     "linux驱动/5.平台总线/2.driver.md",
     "rt-thread源码阅读/day3.md",
-    "linux驱动/12. v4l2/4. ov13850信息.md",
     "Pasted image 20260421203629.png",
     "未命名.base",
     "linux驱动/13.网络设备",
