@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 2.md",
+                "file": "数模校选/Q4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 2"
+              "title": "Q4"
             }
           }
         ],
@@ -224,6 +224,7 @@
   "active": "6fb7cd004c514a5b",
   "lastOpenFiles": [
     "数模校选/Q3_result.md",
+    "数模校选/Q4.md",
     "未命名 2.md",
     "数模校选/Q3.md",
     "数模校选/Q2_result.md",
@@ -250,7 +251,6 @@
     "linux驱动/12. v4l2/1. vivid驱动.md",
     "linux驱动/6.设备树/3.中断示例.md",
     "Pasted image 20260421203629.png",
-    "linux驱动/6.设备树/6.of操作函数获取中断.md",
     "未命名.base",
     "linux驱动/13.网络设备",
     "Pasted image 20260414162408.png",
