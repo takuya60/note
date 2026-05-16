@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数模校选/Q2.md",
+                "file": "数模校选/Q2_result.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Q2"
+              "title": "Q2_result"
             }
           }
         ]
@@ -208,8 +208,9 @@
   },
   "active": "ad03065dceb95854",
   "lastOpenFiles": [
-    "数模校选/Q1.md",
     "数模校选/Q2.md",
+    "数模校选/Q2_result.md",
+    "数模校选/Q1.md",
     "数模校选/题中的参数关系.md",
     "linux驱动/12. v4l2/3.rk3568-csi设备树讲解.md",
     "数模校选",
@@ -235,7 +236,6 @@
     "随笔/linux/5. 4.21.md",
     "掌机/调试命令.md",
     "随笔/linux/4. 4.17.md",
-    "linux驱动/10.SPI子系统 mcp2515例子/5.设备树的修改.md",
     "未命名.base",
     "linux驱动/13.网络设备",
     "Pasted image 20260414162408.png",
