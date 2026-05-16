@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数模校选/对照实验与指标.md",
+                "file": "数模校选/论文初稿.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "对照实验与指标"
+              "title": "论文初稿"
             }
           }
         ],
@@ -223,9 +223,10 @@
   },
   "active": "6fb7cd004c514a5b",
   "lastOpenFiles": [
+    "数模校选/对照实验与指标.md",
+    "数模校选/论文初稿.md",
     "数模校选/Q1.md",
     "数模校选/Q4.md",
-    "数模校选/对照实验与指标.md",
     "数模校选/Q3_result.md",
     "未命名 2.md",
     "数模校选/Q3.md",
@@ -249,7 +250,6 @@
     "linux驱动/12. v4l2/4. ov13850信息.md",
     "linux驱动/12. v4l2/2.vivid驱动2.md",
     "linux驱动/12. v4l2/5. v4l2.md",
-    "linux驱动/12. v4l2/1. vivid驱动.md",
     "Pasted image 20260421203629.png",
     "未命名.base",
     "linux驱动/13.网络设备",
