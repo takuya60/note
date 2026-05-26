@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rk3568/屏幕旋转加GPU渲染.md",
+                "file": "linux项目/内核编译config.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "屏幕旋转加GPU渲染"
+              "title": "内核编译config"
             }
           }
         ],
@@ -236,13 +236,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "eae130eba2573da8",
+  "active": "9184ee301904cf88",
   "lastOpenFiles": [
+    "掌机/plan.md",
+    "linux项目/内核编译config.md",
+    "linux驱动/9.输入子系统/1..md",
+    "linux驱动/9.输入子系统/2..md",
+    "rk3568/屏幕旋转加GPU渲染.md",
     "3568摄像头/1.设置网络共享.md",
     "linux项目/ADB传输文件.md",
     "3568摄像头/RK3568_EDGE_AI_CAMERA_ROADMAP.md",
     "linux项目/裁剪系统知识.md",
-    "linux项目/内核编译config.md",
     "linux项目/修改内核配置.md",
     "linux项目/未命名 1.md",
     "linux项目/README3568.md",
@@ -263,10 +267,6 @@
     "回调函数.md",
     "未命名.base",
     "未命名 1.md",
-    "未命名 5.md",
-    "未命名 2.md",
-    "未命名 4.md",
-    "未命名 3.md",
     "挑战杯/分工.md.tmp.11256.d911f6af748b",
     "挑战杯/XH-202630上海云之脑智能科技有限公司-领域知识个性化生成与多智能体协同决策系统研究比赛方案(1)_extracted.txt",
     "d3650150bede7c126339f87c1b833dd4.jpg",
