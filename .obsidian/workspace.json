@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3568摄像头/1.设置网络共享.md",
+                "file": "rk3568/屏幕旋转加GPU渲染.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.设置网络共享"
+              "title": "屏幕旋转加GPU渲染"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "触摸",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -235,10 +236,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9184ee301904cf88",
+  "active": "eae130eba2573da8",
   "lastOpenFiles": [
-    "linux项目/ADB传输文件.md",
     "3568摄像头/1.设置网络共享.md",
+    "linux项目/ADB传输文件.md",
     "3568摄像头/RK3568_EDGE_AI_CAMERA_ROADMAP.md",
     "linux项目/裁剪系统知识.md",
     "linux项目/内核编译config.md",
