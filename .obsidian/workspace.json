@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux项目/内核编译config.md",
+                "file": "3568摄像头/2.抓帧.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "内核编译config"
+              "title": "2.抓帧"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "触摸",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +103,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -238,8 +237,9 @@
   },
   "active": "9184ee301904cf88",
   "lastOpenFiles": [
-    "掌机/plan.md",
     "linux项目/内核编译config.md",
+    "3568摄像头/2.抓帧.md",
+    "掌机/plan.md",
     "linux驱动/9.输入子系统/1..md",
     "linux驱动/9.输入子系统/2..md",
     "rk3568/屏幕旋转加GPU渲染.md",
@@ -266,7 +266,6 @@
     "3568摄像头",
     "回调函数.md",
     "未命名.base",
-    "未命名 1.md",
     "挑战杯/分工.md.tmp.11256.d911f6af748b",
     "挑战杯/XH-202630上海云之脑智能科技有限公司-领域知识个性化生成与多智能体协同决策系统研究比赛方案(1)_extracted.txt",
     "d3650150bede7c126339f87c1b833dd4.jpg",
