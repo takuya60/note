@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "挑战杯/方案.md",
+                "file": "挑战杯/开发笔记/1.LangGraph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "方案"
+              "title": "1.LangGraph"
             }
           }
         ],
@@ -237,8 +237,10 @@
   },
   "active": "9184ee301904cf88",
   "lastOpenFiles": [
-    "3568摄像头/RK3568_EDGE_AI_CAMERA_ROADMAP.md",
     "挑战杯/方案.md",
+    "挑战杯/开发笔记/1.LangGraph.md",
+    "挑战杯/开发笔记",
+    "3568摄像头/RK3568_EDGE_AI_CAMERA_ROADMAP.md",
     "3568摄像头/2.抓帧.md",
     "3568摄像头/WINDOWS_TO_RK3568_SSH_SETUP.md",
     "3568摄像头/1.设置网络共享.md",
@@ -262,7 +264,6 @@
     "服务器/a.md",
     "linux项目/裁剪/视频.md",
     "linux项目/烧录.md",
-    "RK3568_EDGE_AI_CAMERA_ROADMAP.md",
     "未命名",
     "3568摄像头",
     "未命名.base",
@@ -275,7 +276,6 @@
     "挑战杯/XH-202613_面向雄安新区“城市大脑”的车路云一体化协同管控算法与仿真平台研究(1).pdf",
     "挑战杯/XH-202603_面向太空智算的多模态遥感大模型应用探索(1).pdf",
     "挑战杯/赛题比较.7z",
-    "挑战杯/00赛题比较.7z",
     "Pasted image 20260421203629.png",
     "Pasted image 20260414162408.png",
     "Pasted image 20260414162356.png",
