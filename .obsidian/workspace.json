@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "挑战杯/开发笔记/2.RAG 检索增强生成.md",
+                "file": "挑战杯/开发笔记/LangGraph/4.Edge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.RAG 检索增强生成"
+              "title": "4.Edge"
             }
           }
         ],
@@ -237,9 +237,16 @@
   },
   "active": "9184ee301904cf88",
   "lastOpenFiles": [
-    "挑战杯/开发笔记/1.LangGraph.md",
-    "挑战杯/开发笔记/2.RAG 检索增强生成.md",
+    "挑战杯/开发笔记/LangGraph/3.Node.md",
+    "挑战杯/开发笔记/LangGraph/4.Edge.md",
+    "挑战杯/开发笔记/LangGraph/2.State设计.md",
+    "挑战杯/开发笔记/LangGraph/1.LangGraph.md",
+    "挑战杯/开发笔记/RAG/2.RAG 检索增强生成.md",
+    "挑战杯/开发笔记/RAG",
+    "挑战杯/07_领域知识个性化生成与多智能体协同决策系统研究分析.md",
+    "挑战杯/分工.md",
     "挑战杯/方案.md",
+    "挑战杯/开发笔记/LangGraph",
     "挑战杯/开发笔记",
     "3568摄像头/RK3568_EDGE_AI_CAMERA_ROADMAP.md",
     "3568摄像头/2.抓帧.md",
@@ -259,11 +266,6 @@
     "linux项目/README3506.md",
     "linux项目/2.驱动编写/工作流程.md",
     "随笔/linux/5. 4.21.md",
-    "随笔/linux/3. 4月14.md",
-    "随笔/linux/2. 4月13.md",
-    "随笔/linux/1. 4月12.md",
-    "服务器/a.md",
-    "linux项目/裁剪/视频.md",
     "未命名",
     "3568摄像头",
     "未命名.base",
@@ -274,8 +276,6 @@
     "6987a801af17261e260ab0af1a072ec6.jpg",
     "挑战杯/XH-202631荣耀终端股份有限公司-面向超长程复杂任务的动态异构群体智能架构与深度协同推理技术比赛方案.pdf",
     "挑战杯/XH-202613_面向雄安新区“城市大脑”的车路云一体化协同管控算法与仿真平台研究(1).pdf",
-    "挑战杯/XH-202603_面向太空智算的多模态遥感大模型应用探索(1).pdf",
-    "挑战杯/赛题比较.7z",
     "Pasted image 20260421203629.png",
     "Pasted image 20260414162408.png",
     "Pasted image 20260414162356.png",
