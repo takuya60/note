@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "挑战杯/方案 v2.md",
+                "file": "3568摄像头/RK3568_EDGE_AI_CAMERA_ROADMAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "方案 v2"
+              "title": "RK3568_EDGE_AI_CAMERA_ROADMAP"
             }
           }
         ],
@@ -237,11 +237,15 @@
   },
   "active": "9184ee301904cf88",
   "lastOpenFiles": [
+    "3568摄像头/2.抓帧.md",
+    "3568摄像头/1.设置网络共享.md",
+    "3568摄像头/RK3568_EDGE_AI_CAMERA_ROADMAP.md",
+    "3568摄像头/WINDOWS_TO_RK3568_SSH_SETUP.md",
+    "挑战杯/方案 v2.md",
     "挑战杯/开发文档/RAG/1.RAG 检索增强生成.md",
     "挑战杯/开发文档/2.实际代码相关/1.agent文件夹/3.具体节点agent.md",
     "挑战杯/开发文档/2.实际代码相关/1.agent文件夹/2.Edge相关.md",
     "挑战杯/开发文档/2.实际代码相关/1.agent文件夹/1.State相关.md",
-    "挑战杯/方案 v2.md",
     "挑战杯/开发文档/1.LangGraph相关/4.Edge.md",
     "挑战杯/开发文档/1.LangGraph相关/5.常用API.md",
     "挑战杯/开发文档/1.LangGraph相关/7.MessagesState：对话型 Agent 常用结构.md",
@@ -266,12 +270,9 @@
     "挑战杯/开发文档/2.实际代码相关/1.agent文件夹",
     "挑战杯/开发文档/2.实际代码相关",
     "挑战杯/开发文档/1.LangGraph相关/11.Interrupt：人工介入.md",
-    "挑战杯/开发文档/1.LangGraph相关/9.Command：在节点里直接控制跳转.md",
-    "挑战杯/开发文档/1.LangGraph相关/6.State 合并和 Reducer.md",
     "挑战杯/开发文档/RAG",
     "挑战杯/开发文档/1.LangGraph相关",
     "挑战杯/开发文档",
-    "3568摄像头/RK3568_EDGE_AI_CAMERA_ROADMAP.md",
     "d3650150bede7c126339f87c1b833dd4.jpg",
     "071eee057f453b18cba849b99a576fc1.jpg",
     "6987a801af17261e260ab0af1a072ec6.jpg",
