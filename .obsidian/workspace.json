@@ -35,7 +35,8 @@
               "title": "第二讲_光的干涉"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,10 +222,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9184ee301904cf88",
+  "active": "83d77ec706bafb42",
   "lastOpenFiles": [
-    "工光/第二讲_光的干涉.md",
     "工光/工程光学期末复习重点.md",
+    "工光/第二讲_光的干涉.md",
     "数模校选/Q3_result.md",
     "服务器/a.md",
     "工光/第一讲_光的电磁理论基础.md",
