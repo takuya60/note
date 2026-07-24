@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KER/encoder/1.固件烧录.md",
+                "file": "KER/M5/1.固件烧录.md",
                 "mode": "source",
                 "source": false
               },
@@ -209,13 +209,13 @@
   },
   "active": "e21264c359df2b18",
   "lastOpenFiles": [
+    "KER/encoder/1.固件烧录.md",
     "linux项目/OTA/OTA两种方式对比.md",
     "linux项目/OTA/AB分区.md",
     "linux项目/OTA/修改uboot，buildroot，parammeter等.md",
     "KER/M5/1.固件烧录.md",
     "工光/第二讲_光的干涉.md",
     "工光/工程光学期末复习重点.md",
-    "KER/encoder/1.固件烧录.md",
     "KER/encoder",
     "未命名",
     "FES/闭环控制/PID.md",
