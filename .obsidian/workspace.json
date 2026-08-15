@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KER/encoder/1.固件烧录.md",
+                "file": "掌机/plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.固件烧录"
+              "title": "plan"
             }
           }
         ]
@@ -209,8 +209,9 @@
   },
   "active": "e21264c359df2b18",
   "lastOpenFiles": [
-    "KER/M5/1.固件烧录.md",
+    "掌机/内存.md",
     "KER/encoder/1.固件烧录.md",
+    "KER/M5/1.固件烧录.md",
     "linux项目/OTA/OTA两种方式对比.md",
     "linux项目/OTA/AB分区.md",
     "linux项目/OTA/修改uboot，buildroot，parammeter等.md",
@@ -240,7 +241,6 @@
     "FES/FFT.md",
     "FES/H7控制台命令.md",
     "FES/H7文档.md",
-    "电刺激设计.md",
     "Pasted image 20260227181831.png",
     "工光",
     "文档.7z",
