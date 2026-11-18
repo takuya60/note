@@ -1,0 +1,1 @@
+ssh -i /home/alientek/.ssh/rk3568_arch_ed25519 root@192.168.137.147
