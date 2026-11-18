@@ -46,21 +46,9 @@
               "icon": "lucide-file",
               "title": "ssh"
             }
-          },
-          {
-            "id": "9d315438ab6f857c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.15.0"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.15.0"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -248,8 +236,23 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9d315438ab6f857c",
+  "active": "7f5d368483c0a2f2",
   "lastOpenFiles": [
+    "工光/第四讲_光的偏振.md",
+    "工光/第二讲_光的干涉.md",
+    "工光/第三讲_光的衍射.md",
+    "随笔/linux/1. 4月12.md",
+    "数模校选/论文初稿.md",
+    "数模校选/对照实验与指标.md",
+    "Pasted image 20260227181831.png",
+    "d3650150bede7c126339f87c1b833dd4.jpg",
+    "pr.md",
+    "RK3568_EDGE_AI_CAMERA_ROADMAP.md",
+    "Pasted image 20260405230957.png",
+    "Pasted image 20260301214235.png",
+    "未命名 1.base",
+    "未命名.base",
+    "未命名.canvas",
     "ssh.md",
     "arch/ssh.md",
     "arch",
@@ -261,7 +264,6 @@
     "linux项目/OTA/OTA两种方式对比.md",
     "linux项目/OTA/AB分区.md",
     "linux项目/OTA/修改uboot，buildroot，parammeter等.md",
-    "工光/第二讲_光的干涉.md",
     "工光/工程光学期末复习重点.md",
     "KER/encoder",
     "FES/闭环控制/PID.md",
@@ -273,29 +275,16 @@
     "FES/adc/ADC+DMA.md",
     "FES/adc/使用.md",
     "FES/使用文档/canfd文档.md",
-    "FES/分时复用/TDM.md",
     "071eee057f453b18cba849b99a576fc1.jpg",
     "6987a801af17261e260ab0af1a072ec6.jpg",
-    "3024004069赵天赫.md",
-    "FES/can/多帧拼接.md",
-    "FES/can/RT-Thread中can的使用.md",
-    "FES/max14802/MAX14802芯片.md",
-    "FES/max14802/MAX14802.md",
-    "FES/调试.md",
-    "Pasted image 20260227181831.png",
     "工光",
     "文档.7z",
     "挑战杯.7z",
     "挑战杯/开发文档/2.实际代码相关/4.rag_engine和data",
-    "挑战杯/开发文档/2.实际代码相关/3.fronted文件夹",
-    "挑战杯/开发文档/2.实际代码相关/2.backend文件夹",
-    "d3650150bede7c126339f87c1b833dd4.jpg",
     "Pasted image 20260421203629.png",
     "Pasted image 20260414162408.png",
     "Pasted image 20260414162356.png",
     "Pasted image 20260413214338.png",
-    "Pasted image 20260413212608.png",
-    "Pasted image 20260412223918.png",
     "3568驱动/6..canvas"
   ]
 }
